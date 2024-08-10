@@ -1,10 +1,6 @@
 # react-portal-example
 Modal example implemented with react16 portals, animated with react-motion
 
-![React Portal Example](public/demo.gif)
-
-# Demo
-https://touqeerkhan11.github.io/react-portal-example/
 
 # 0.1.0 Change Log
 Removed TransitionMotion in favor of just motion API: Not sure why I was using that, everything is a bit faster now
